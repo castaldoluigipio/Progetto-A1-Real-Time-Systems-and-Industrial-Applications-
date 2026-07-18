@@ -1,3 +1,4 @@
+EdgeAI real-time interference: a performance study
 Questa sezione guida passo dopo passo chiunque voglia replicare gli esperimenti direttamente sulla board NVIDIA Jetson.
 
 Una volta effettuato l'accesso alla board (tramite terminale o SSH), la prima cosa da fare è assicurarsi che i tool di stress e compilazione siano installati. Eseguire questi comandi per aggiornare il sistema e installare "stress-ng" e le altre dipendenze necessarie:
